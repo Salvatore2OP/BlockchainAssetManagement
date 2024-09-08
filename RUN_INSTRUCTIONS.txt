@@ -1,0 +1,9 @@
+
+To run the Blockchain Asset Management application:
+
+1. Ensure that the Hyperledger Fabric test network is set up and running.
+2. Install Node.js and the required packages:
+   npm install express body-parser fabric-network
+3. Run the application:
+   node index.js
+4. Use a tool like Postman or curl to send requests to the server.
